@@ -1,8 +1,7 @@
 
 # 🏥 **Fine-Tuning Techniques for Medical Image Classification**
 
-📅 **Duration**: September 2024 – October 2024  
-**Technologies**: Python, TensorFlow, Keras, MedMNIST, Neural Networks  
+
 
 ---
 
